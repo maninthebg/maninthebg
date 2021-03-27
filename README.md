@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @maninthebg
+- 👀 I’m interested in building apps for education and educational purposes
+- 🌱 I’m currently learning Javascript, Vue, and data science stuff
+- 📫 Reach me through my telegram @maninthebg
